@@ -16,7 +16,7 @@ Informationen austauschen können.
 
 Beispiele für Geräte in einem Netzwerk:
 - Computer
-- Router
+- Route
 - Server
 - Smartphones
 
